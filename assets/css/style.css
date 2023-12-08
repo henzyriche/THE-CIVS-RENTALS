@@ -433,8 +433,6 @@ header{
         height: 220px;
         flex-shrink: 0;
         position: relative;
-        border: 1px solid #eee;
-        border-radius: 20px;
     }
 }
 
